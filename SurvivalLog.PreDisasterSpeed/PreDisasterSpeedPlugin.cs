@@ -16,7 +16,7 @@ public sealed class PreDisasterSpeedPlugin : BasePlugin
 {
     public const string Guid = "com.local.survivallog.predisasterspeed";
     public const string Name = "PreDisasterSpeed";
-    public const string Version = "1.7.0";
+    public const string Version = "1.7.1";
 
     internal static new ManualLogSource Log;
     internal static ConfigEntry<bool> Enabled;
