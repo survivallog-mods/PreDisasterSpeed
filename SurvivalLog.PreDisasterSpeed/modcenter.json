@@ -1,5 +1,6 @@
 {
   "mcSpec": 2,
+  "suite": true,
   "id": "com.local.survivallog.predisasterspeed",
   "display": "灾前加速",
   "en": "PreDisasterSpeed",
